@@ -1,0 +1,2 @@
+# ListAllGroupAliases
+グループエイリアス出します
